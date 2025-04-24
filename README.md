@@ -90,5 +90,6 @@ void update_phase(double phase) {
 
 - PID parameters may need tuning based on hardware specifics.
 
+## Contributor
 
-
+ - [Amir Rahmani](https://gitlab.com/amirrhmni)
