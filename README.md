@@ -1,8 +1,7 @@
 # Dual Active Bridge Converter with ESP32 Control
 Dual active bridge design + Circuit test
 
-![banner](https://github.com/RASM80/simple_DAB/raw/main/images/overview.jpg?raw=true)
-
+![banner](images/board.png)
 
 ## Project Overview
 
@@ -64,7 +63,8 @@ void update_phase(double phase) {
   return;
 }
 ```
-![banner](https://github.com/RASM80/simple_DAB/raw/main/images/logic_analyzer.jpg?raw=true)
+
+![signals](images/logic_analyzer.jpg)
 
 ## Setup and Usage
 
@@ -75,7 +75,7 @@ void update_phase(double phase) {
 
 **Note**: I've used [Serial Studio](https://github.com/Serial-Studio/Serial-Studio) to monitor output data visually with graphs
 
-![banner](https://github.com/RASM80/simple_DAB/raw/main/images/Serial_studio.jpg?raw=true)
+![output](images/Serial_studio.jpg)
 
 > Channel 1: Setpoint 
 >
